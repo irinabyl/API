@@ -1,0 +1,10 @@
+﻿{
+"name": "Irina",
+"secondname": "Bylich",
+"age": 46,
+"marrage": true,
+"phonenumber" ["295072733", "256588893"]
+"address: {"villige": "Drozdovo", "street": "Yantarnay"}
+"education": {"university": "Belarussian State University", "job": "lawyer", "skills" 25}
+"hobbies": ["english", "drawing"]
+}
